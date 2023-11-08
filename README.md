@@ -14,7 +14,7 @@
 - 👨‍🏛 I am currently a student of **Vellore Institute Of Technology, Bhopal**.
 - 💻 Major is **Computer Science**.
 - I like to use a variety of useful **computer software**.
-- 🌱 I’m currently learning Typescript;
+- 🌱 I’m currently learning Flutter;
 - 🔥 I really love the thrill of making what I want possible!
 - 📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/yazdan-haider/):)
 
