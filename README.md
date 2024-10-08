@@ -40,10 +40,10 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/yazdanhaider/Yazdan-Personal-Portfolio-Website)
-[![](https://img.shields.io/badge/-👔%20Myntra%20Clone-000)](https://github.com/yazdanhaider/Myntra-Clone)
-[![](https://img.shields.io/badge/-☕️%20Café%20Website-000)](https://github.com/yazdanhaider/Cafe-Good-Samaritans)
-[![](https://img.shields.io/badge/-🗺%20Face%20Recognition%20Attndance%20System-000)]([https://github.com/adamalston/PokemonGo-Map](https://github.com/yazdanhaider/Face-Recognition-Based-Attendance-System))
+[![](https://img.shields.io/badge/-🧬%20Food%20Delivery%20APP-000)](https://github.com/yazdanhaider/Food-Delivery)
+[![](https://img.shields.io/badge/-👔%20BlinkList%20To%20Do%20APP-000)](https://github.com/yazdanhaider/BlinkList)
+[![](https://img.shields.io/badge/-☕️%20Stock%20Wise%20App-000)](https://github.com/yazdanhaider/StockWise)
+[![](https://img.shields.io/badge/-🗺%20LOSTIFY%20VITB%20System-000)]([https://github.com/adamalston/PokemonGo-Map](https://github.com/yazdanhaider/Lostify-VITB))
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Yazdan's github stats](https://github-readme-stats.vercel.app/api?username=yazdanhaider&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
