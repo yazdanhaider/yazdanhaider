@@ -1,12 +1,12 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Yazdan Haider! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<!-- SPINNING EARTH GIF -->
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+ -->
+<p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> I'm</p>
+<h1 align="center"><strong>Yazdan Haider</strong></h1>
+<h4 align="center">Design. Development. DevOps.</h4>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Pursuing B.tech in Computer Science from <a href="https://vitbhopal.ac.in/">VIT Bhopal University
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=yazdanhaider)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YazdanH7?label=Follow)](https://twitter.com/intent/follow?screen_name=YazdanH7)
-[![Linkedin: Yazdan](https://img.shields.io/badge/-Yazdan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yazdan-haider/)](https://www.linkedin.com/in/yazdan-haider/)
 [![GitHub followers](https://img.shields.io/github/followers/yazdanhaider?label=Follow&style=social)](https://github.com/yazdanhaider)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
