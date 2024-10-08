@@ -11,12 +11,12 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 👨‍🏛 I am currently a student of **Vellore Institute Of Technology, Bhopal**.
+- 🏛️ I am currently a student of **Vellore Institute of Technology**.
 - 💻 Major is **Computer Science**.
-- I like to use a variety of useful **computer software**.
-- 🌱 I’m currently learning Flutter;
+- 🌐 Full Stack Developer
+- 🚀 I'm on track for learning more about **React.js**, **PHP**, **Google Cloud**
 - 🔥 I really love the thrill of making what I want possible!
-- 📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/yazdan-haider/):)
+- 📫 &nbsp;You can shoot me an email at yazdanhaider007@gmail.com! I'll try to respond as soon as I can.
 
 
 
