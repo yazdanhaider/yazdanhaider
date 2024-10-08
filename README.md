@@ -1,3 +1,8 @@
+<!-- README FILE CODE -->  
+
+![MastHead](https://github.com/yazdanhaider/yazdanhaider/blob/main/yazdanhaider-cover.png)
+
+
 <!-- SPINNING EARTH GIF -->
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
  -->
