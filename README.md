@@ -56,6 +56,14 @@
 
 [![@yazdan's Holopin board](https://holopin.me/yazdan)](https://holopin.me/yazdan)
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="yazdanhaider.github.io"><img src="https://img.shields.io/badge/-yazdanhaider.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yazdan-haider/"><img src="https://img.shields.io/badge/-Yazdan%20Haider-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:yazdanhaider007@gmail.com"><img src="https://img.shields.io/badge/-yazdanhaider007@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/yazdan.haider23/"><img src="https://img.shields.io/badge/-@ig.yazdan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
 
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
