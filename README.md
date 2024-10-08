@@ -8,7 +8,7 @@
  -->
 <p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> I'm</p>
 <h1 align="center"><strong>Yazdan Haider</strong></h1>
-<h4 align="center">Design. Development. Deploy.</h4>
+<h4 align="center">Design ∙ Development ∙ Deploy </h4>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlyZnNtOHk1MWt1cW40eHpmNXZjZWtkZTBqa2Rqd2htNXp0MHc1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NC0oXLfalBrIGlbpKw/giphy.gif" width="230">
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=yazdanhaider)
