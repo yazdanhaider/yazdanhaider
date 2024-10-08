@@ -23,23 +23,16 @@
   
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![Html](https://img.shields.io/badge/-HTML-000?&logo=Html)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+<a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,mysql,dart,swift" />
+  </a>
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+<a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=docker,aws,googlecloud,nodejs,git,github,githubactions,wordpress,firebase,mongodb,supabase,vercel" />
+  </a>
+
 ### Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/yazdanhaider/Yazdan-Personal-Portfolio-Website)
