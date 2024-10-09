@@ -17,7 +17,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🏛️ I am currently a student of **Vellore Institute of Technology**.
-- 💻 Major is **Computer Science**.
+- 💻 Major is **Computer Science Engineering**.
 - 🌐 Full Stack Developer
 - 🚀 I'm on track for learning more about **React.js**, **PHP**, **Google Cloud**
 - 🔥 I really love the thrill of making what I want possible!
