@@ -7,9 +7,13 @@
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
  -->
 <p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> I'm</p>
-<h1 align="center"><strong>Yazdan Haider</strong></h1>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=⚡️Yazdan%20Haider⚡️&width=800&height=220" alt="SVG Banners" width="800" />
+</p>
+
+<!-- <h1 align="center"><strong>Yazdan Haider</strong></h1> -->
 <h4 align="center">Design ∙ Develop ∙ Deploy </h4>
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlyZnNtOHk1MWt1cW40eHpmNXZjZWtkZTBqa2Rqd2htNXp0MHc1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NC0oXLfalBrIGlbpKw/giphy.gif" width="230">
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=yazdanhaider)
 [![GitHub followers](https://img.shields.io/github/followers/yazdanhaider?label=Follow&style=social)](https://github.com/yazdanhaider)
@@ -47,10 +51,12 @@
 [![](https://img.shields.io/badge/-🗺%20LOSTIFY%20VITB%20System-000)]([https://github.com/adamalston/PokemonGo-Map](https://github.com/yazdanhaider/Lostify-VITB))
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=yazdanhaider&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yazdanhaider&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazdanhaider&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
-
+<a href="https://stats.dooboo.io">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=yazdanhaider" width="600" />
+</a>
+<a href="https://stats.dooboo.io">
+  <img src="https://stats.dooboo.io/api/github-trophies?login=yazdanhaider" width="700" />
+</a>
 
 <strong>Holopin Badges 🎯</strong>
 
