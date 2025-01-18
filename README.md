@@ -70,3 +70,7 @@
 
 <p align="center"> **If you like this readme file, please give me star! 🌟**</p>
 <p align="center">Made with ❤️ in BHARAT 🇮🇳</p>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
