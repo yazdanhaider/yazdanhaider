@@ -20,7 +20,7 @@
 - 💻 Major is **Computer Science Engineering**.
 - 🌐 Full Stack Developer
 - 📌 SDE Intern at Neura Dynamics AI
-- 🚀 I'm on track for learning more about **React.js**, **PHP**, **Google Cloud**
+- 🚀 I'm on track for learning more about **Swift**, **Objective-C**, **Google Cloud**
 - 🔥 I really love the thrill of making what I want possible!
 - 📫 &nbsp;You can shoot me an email at yazdanhaider007@gmail.com! I'll try to respond as soon as I can.
 
