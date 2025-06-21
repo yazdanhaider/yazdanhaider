@@ -28,7 +28,7 @@
   
   🌐 Mobile Application Developer<br>
   
-  📌 SDE Intern at Neura Dynamics AI<br>
+  📌 SDE-1 @Neura Dynamics<br>
   
   🚀 I'm on track for learning more about <b>Swift</b>, <b>Objective-C</b>, <b>Google Cloud</b>.<br>
   
